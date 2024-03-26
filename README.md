@@ -49,7 +49,7 @@ Restrições: Impõem limitações ao sistema, como orçamento, prazos e tecnolo
   ![Alt](https://blog-static.infra.grancursosonline.com.br/wp-content/uploads/2020/03/10121622/inni.png).
 
 
-![alt](file:///C:/Users/Aluno/Pictures/Screenshots/Captura%20de%20tela%202024-03-26%20190446.png)
+![alt]([file:///C:/Users/Aluno/Pictures/Screenshots/Captura%20de%20tela%202024-03-26%20190446.png](https://github.com/arthur11155/aulaMarkdown/blob/main/README.md)https://github.com/arthur11155/aulaMarkdown/blob/main/README.md)
 
 
 
