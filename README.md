@@ -42,6 +42,19 @@ Domínio: Capturam conceitos e terminologia específicos do problema a ser resol
 
 Restrições: Impõem limitações ao sistema, como orçamento, prazos e tecnologias a serem utilizadas.
 
+# imagens
+
+ ![Alt](https://conteudo.catolica.edu.br/conteudos/nbt_cursos/engenharia_requisitos/tema_03/img/index_clip_image003.png)
+
+  ![Alt](https://blog-static.infra.grancursosonline.com.br/wp-content/uploads/2020/03/10121622/inni.png).
+
+Produtos   | Preços
+--------- | ------
+Smartphone | R$ 1,600
+Fones de ouvido| R$ 80
+Carregador sem fio| R$ 120
+Capa protetora	| R$ 35
+
 
 
 
